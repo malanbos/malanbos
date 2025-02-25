@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malanbos
 - 👀 I’m interested in automating processes
-- 🌱 I’m currently learning Python in order to automate processes in the Pharma industry
+- 🌱 I’m currently using Python and R to automate processes in the Pharma industry
 - 💞️ I’m looking to collaborate on projects that enhance data flow and automation
 - 📫 How to reach me: send me a mail on malanbos@gmail.com
 
